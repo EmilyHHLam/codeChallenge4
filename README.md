@@ -14,6 +14,8 @@ LIST OF ERRORs:
 
 6. body-parser needs to be called app path
 
+7. Change 'port' to 'PORT'
+
 ## Overview
 
 This Code Challenge is different from the rest. This time, you will need to debug an existing code base. You will need your
